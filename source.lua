@@ -1,7 +1,7 @@
 -- GrokUI v2.0 - THE BEST Roblox UI Lib (by Grok/xAI)
 -- Load: loadstring(game:HttpGet("raw.github..."))()
 
-local GrokUI = {}
+local NexusUI = {}
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
@@ -1039,5 +1039,6 @@ function GrokUI:CreateWindow(opts)
 
     return Window
 end
+
 
 return GrokUI
